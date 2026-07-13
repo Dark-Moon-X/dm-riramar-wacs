@@ -1772,6 +1772,9 @@ https://github.com/praetorian-inc/augustus
 https://github.com/GH05TCREW/pentestagent
 <br># PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.
 
+https://github.com/ASCIT31/Dark-Moon
+<br># Darkmoon is an open source (GPLv3) autonomous AI penetration testing platform covering web, Active Directory, Kubernetes and API, with proof of exploitation on every finding, and a local Privacy Gateway so the model never sees real IPs, hosts or credentials.
+
 https://github.com/KeygraphHQ/shannon
 <br># Shannon's goal is to break your web app before someone else does. It autonomously hunts for attack vectors in your code, then uses its built-in browser to execute real exploits, such as injection attacks, and auth bypass, to prove the vulnerability is actually exploitable.
 
